@@ -1,0 +1,17 @@
+
+# Dipendenze
+node_modules/
+
+# File generati da Next.js
+.next/
+out/
+build/
+
+# Variabili riservate
+.env
+.env.local
+.env.*.local
+
+# File temporanei
+*.log
+.DS_Store
